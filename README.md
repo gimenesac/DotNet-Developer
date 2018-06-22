@@ -14,3 +14,7 @@ Apenas algumas frescuras:
 - Pode-se usar EF, MongoDb, ambos ou até mesmo um  arquivo JSON como
  fonte de dados iniciais, feel free!  
 - Facilite o setup do projeto com instruções (por favor!);
+
+# Entrega
+
+A entrega pode ser feita fazendo um FORK desse projeto e criando um Pull Request ao finalizar.
