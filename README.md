@@ -1,6 +1,6 @@
 # Quer fazer parte da S4Pay?
 
-Se você está lendo isso, PARABÉNS! Você tem a chance de participar de um grande time com muitos desafios pela frente! Tudo que você tem a fazer é um simples calculo de árvore binária para localizar e interceptar transações dentro de um ladger público e destrbuído do Blackchain e desviar as transações para carteira abaixo: ....rs
+Se você está lendo isso, PARABÉNS! Você tem a chance de participar de um grande time com muitos desafios pela frente! Tudo que você tem a fazer é um simples calculo de árvore binária para localizar e interceptar transações dentro de um ladger público e distribuído do Blackchain e desviar as transações para carteira abaixo: ....rs
 
 # Sua missão!
 
